@@ -13,6 +13,8 @@ n2 = int(input("Digite o segundo número "))
 soma = n1 + n2
 
 print("A Soma dos Números é ", soma)
+print("A Soma dos Números é ", soma)
+
 
 # NOVA FORMA DE ESCREVER
 # print("A Soma dos Números é {}".format(soma))
